@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/user/mlflow/mlruns/0/115329b1171e4d54b7b3db3c9848b1f3/artifacts
+end_time: 1734676239827
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 115329b1171e4d54b7b3db3c9848b1f3
+run_name: ambitious-bear-941
+run_uuid: 115329b1171e4d54b7b3db3c9848b1f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734676235325
+status: 3
+tags: []
+user_id: user

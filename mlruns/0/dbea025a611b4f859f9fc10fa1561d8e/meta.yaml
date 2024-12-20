@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/user/mlflow/mlruns/0/dbea025a611b4f859f9fc10fa1561d8e/artifacts
+end_time: 1734675115300
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dbea025a611b4f859f9fc10fa1561d8e
+run_name: secretive-kit-551
+run_uuid: dbea025a611b4f859f9fc10fa1561d8e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734675110799
+status: 3
+tags: []
+user_id: user
